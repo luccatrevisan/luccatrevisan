@@ -1,5 +1,3 @@
-<img align="right" height="180em" src="https://avatars.githubusercontent.com/u/luccatrevisan?v=4" alt="luccatrevisan's profile picture"/>
-
 # 👋 Hi, I'm Lucca Trevisan!
 
 I'm a Software Engineer student from **Rio de Janeiro, Brazil** 🇧🇷, always curious and learning a little bit of everything.  
