@@ -21,6 +21,6 @@ class ProximosPassos extends Desenvolvedor {
 
 class Contato extends Desenvolvedor {
   email = "luccatrevisandev@gmail.com";
-  linkedin = "LinkedIn"(https://www.linkedin.com/in/lucca-trevisan-86a181378/);
+  linkedin = ["LinkedIn"](https://www.linkedin.com/in/lucca-trevisan-86a181378/);
 }
 ```
