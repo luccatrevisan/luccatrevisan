@@ -1,39 +1,44 @@
-# 👋 Hi, I'm Lucca Trevisan!
+# 👋 Olá! Sou Lucca Trevisan.
 
-I'm a Software Engineer student from **Rio de Janeiro, Brazil** 🇧🇷, always curious and learning a little bit of everything.  
-Currently, I'm on a journey mastering the basics of **JavaScript** (no frameworks—yet!), and building my coding skills one project at a time.
-
+Sou estudante de **Ciência da Computação** e um aspirante a **Desenvolvedor Back-end** do Rio de Janeiro.
 ---
 
-## 🚀 My Projects
+## 💡 Minhas Habilidades & Foco Atual
 
-- [**projeto-android**](https://github.com/luccatrevisan/projeto-android): My foray into Android-inspired interfaces and design.
-- [**numero-secreto**](https://github.com/luccatrevisan/numero-secreto): A fun game project exploring logic and interactivity!
-- [**projeto-cordel**](https://github.com/luccatrevisan/projeto-cordel): Experimenting with storytelling and visual styles, inspired by Brazilian Cordel literature.
+Atualmente, estou me aprofundando em:
 
+* **Linguagens:** C#, Python, JavaScript, HTML, CSS
+* **Conceitos:** Lógica de Programação (formação Alura concluída), Programação Orientada a Objetos, Estruturas de Dados.
+
+Minha meta é consolidar meus conhecimentos em desenvolvimento **Back-end** com C# e Python, construindo sistemas robustos e eficientes.
 ---
 
-## 🎮 More About Me
+## 🚀 Meus Projetos
 
-- I love **animations**—not just anime, but all kinds!
-- Currently playing: _Skyrim_ 🐉
-- Book on my nightstand: _Dune_ by Frank Herbert 📚
-- Sports keep me energized—my best days start with a swim or a run. 🏊‍♂️🏃
+Aqui estão alguns dos projetos em que venho trabalhando:
 
+- [**projeto-android**](https://github.com/luccatrevisan/projeto-android)
+- [**numero-secreto**](https://github.com/luccatrevisan/numero-secreto)
+- [**projeto-cordel**](https://github.com/luccatrevisan/projeto-cordel)
 ---
 
-## 🌱 What’s Next?
+## 🌱 O Que Vem Por Aí?
 
-- Continue exploring JavaScript and web technologies
-- Build and launch my personal website soon
-- Always looking for new things to learn!
-
+* Aprofundar meus conhecimentos na trilha de **C# e .NET** (Alura).
+* Explorar mais a fundo o desenvolvimento com **Python** para Back-end.
+* Buscar uma oportunidade de **estágio** em desenvolvimento para aplicar e expandir minhas habilidades em um ambiente profissional real.
+* Continuar construindo projetos que desafiem e aprimorem minhas capacidades técnicas.
 ---
 
-## 📫 Connect with Me
+## ⚡ Um Pouco Mais Sobre Mim
 
-You can find my [LinkedIn on my profile page](https://github.com/luccatrevisan), and I’m always open to connect!
-
+* Adoro **animações** de todos os tipos! Do primeiro episódio de One Piece até Arcane
+* Atualmente jogando: _Skyrim_ 🐉
+* Livro na cabeceira: _Dune_ by Frank Herbert 📚
+* Meus melhores dias começam com uma natação ou corrida. 🏊‍♂️🏃
 ---
 
-Thanks for stopping by! 🚀
+## 📫 Conecte-se Comigo
+
+Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/lucca-trevisan-86a181378/) para conversar sobre tecnologia, oportunidades ou apenas trocar ideias!
+📧 E-mail: luccatrevisandev@gmail.com
