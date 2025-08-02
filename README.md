@@ -1,25 +1,30 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+### 👋 Olá! Eu sou Lucca Trevisan
 
-<p align="left"> 
-  Hey! I am Lucca Trevisan, a Computer Science Student from Brazil and an anspiring <strong>Back-End Developer</strong>.<br>
-  Started learning Front-End technologies for my brand but missed the logic that comes from the Back-End
-</p>
+Sou um **estudante de Ciência da Computação** do Brasil e um aspirante a **Desenvolvedor Back-End**.
 
-<p align="left">
-  🦄 Languages: **HTML5, CSS3, JavaScript, Python, C#**
-</p>
+Minha jornada na tecnologia começou com o desenvolvimento front-end para minha própria marca, a Chewie Cookies. Essa experiência acendeu minha paixão por criar e resolver problemas, o que me levou ao fascinante mundo da lógica e dos sistemas do **Back-End**.
 
-<p align="left">
-  💼 Tools: **Visual Studio, Visual Studio Code, PyCharm.**
-</p>
+---
 
-<p align="left">
-  💌 My Contact Info: ⤵️
-</p>
+### 💻 Minhas Habilidades e Tecnologias
 
-<p align="left">
-  <a href="mailto:luccatrevisandev@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/lucca-trevisan-86a181378/" target="_blank" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-</p>
+* **Linguagens:** Python, C#, JavaScript
+* **Front-End:** HTML5, CSS3
+* **Ferramentas:** Git, GitHub, Visual Studio, Visual Studio Code, PyCharm
+
+---
+
+### 🚀 Alguns dos meus Projetos
+
+* **ScreenSound** - Um projeto em C# para cadastro e avaliação de bandas.
+    * [Repositório](https://github.com/luccatrevisan/ScreenSound) *(Substitua pelo link real do seu repositório)*
+* **Lista de Compras JS** - Aplicação JavaScript para gerenciar uma lista de compras dinâmica.
+    * [Repositório:](https://github.com/luccatrevisan/shopping-list-js) *(Substitua pelo link real do repositório)*
+* **Cardápio Digital Chewie Cookies** - Feito somente com HTML e CSS com o objetivo de ser um cardápio extra para os clientes. Futuramente posso colocar funcionalidades em JavaScript como promoções programadas, criação de carrinho de compras e cálculo de frete.
+    * [Repositório:](https://github.com/luccatrevisan/chewie-cookies-menu) 
+
+---
+### ✉️ Vamos nos Conectar!
+
+* **Email:** [luccatrevisandev@gmail.com](mailto:luccatrevisandev@gmail.com)
+* **LinkedIn:** [Lucca Trevisan](https://www.linkedin.com/in/lucca-trevisan-86a181378/)
