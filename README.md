@@ -1,30 +1,30 @@
-### 👋 Olá! Eu sou Lucca Trevisan
+### 👋 Hey! I am Lucca Trevisan
 
-Sou um **estudante de Ciência da Computação** do Brasil e um aspirante a **Desenvolvedor Back-End**.
+I am a Computer Sciente student from Brazil and an aspiring **Back-End Developer**.
 
-Minha jornada na tecnologia começou com o desenvolvimento front-end para minha própria marca, a Chewie Cookies. Essa experiência acendeu minha paixão por criar e resolver problemas, o que me levou ao fascinante mundo da lógica e dos sistemas do **Back-End**.
+My tech journey began with front-end development for my own brand, Chewie Cookies. This experience sparked my passion for creating and solving problems, which brought me to the fascinating world of logic and **back-end** systems.
 
 ---
 
-### 💻 Minhas Habilidades e Tecnologias
+### 💻 Skills and Technologies
 
-* **Linguagens:** Python, C#, JavaScript
+* **Languages:** Python, C#, JavaScript
 * **Front-End:** HTML5, CSS3
-* **Ferramentas:** Git, GitHub, Visual Studio, Visual Studio Code, PyCharm
+* **Tools:** Git, GitHub, Visual Studio, Visual Studio Code, PyCharm
 
 ---
 
-### 🚀 Alguns dos meus Projetos
+### 🚀 Main Projects
 
-* **ScreenSound** - Um projeto em C# para cadastro e avaliação de bandas.
-    * [Repositório](https://github.com/luccatrevisan/ScreenSound) *(Substitua pelo link real do seu repositório)*
-* **Lista de Compras JS** - Aplicação JavaScript para gerenciar uma lista de compras dinâmica.
-    * [Repositório:](https://github.com/luccatrevisan/shopping-list-js) *(Substitua pelo link real do repositório)*
-* **Cardápio Digital Chewie Cookies** - Feito somente com HTML e CSS com o objetivo de ser um cardápio extra para os clientes. Futuramente posso colocar funcionalidades em JavaScript como promoções programadas, criação de carrinho de compras e cálculo de frete.
-    * [Repositório:](https://github.com/luccatrevisan/chewie-cookies-menu) 
+* **ScreenSound** - A C# project to register and evaluate bands.
+    * [Repositório](https://github.com/luccatrevisan/ScreenSound)
+* **Lista de Compras** - A simple JavaScript application to manage a dinamic shopping list.
+    * [Repositório](https://github.com/luccatrevisan/shopping-list-js)
+* **Cardápio Digital Chewie Cookies** - Developed using only HTML and CSS, this project serves as a supplementary menu for customers. Future plans include integrating JavaScript functionalities such as scheduled promotions, a shopping cart and shipping cost calculation.
+    * [Repositório](https://github.com/luccatrevisan/chewie-cookies-menu)
 
 ---
-### ✉️ Vamos nos Conectar!
+### ✉️ My Contact Info
 
 * **Email:** [luccatrevisandev@gmail.com](mailto:luccatrevisandev@gmail.com)
 * **LinkedIn:** [Lucca Trevisan](https://www.linkedin.com/in/lucca-trevisan-86a181378/)
