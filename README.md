@@ -1,26 +1,25 @@
-```js
-import Desenvolvedor from "@luccatrevisan";
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-class SobreMim extends Desenvolvedor {
-  nome = "Lucca Trevisan";
-  area = "Back-End";
-  trabalho = "Estudante de Ciência da Computação";
-  local = "Rio de Janeiro";
-}
+<p align="left"> 
+  Hey! I am Lucca Trevisan, a Computer Science Student from Brazil and an anspiring <strong>Back-End Developer</strong>.<br>
+  Started learning Front-End technologies for my brand but missed the logic that comes from the Back-End
+</p>
 
-class Skills extends Desenvolvedor {
-  linguagens = ["HTML", "CSS", "JavaScript", "C#", "Python"];
-  bibliotecas = ["Manipulação de DOM"];
-  frameworks = [".NET"];
-}
+<p align="left">
+  🦄 Languages: **HTML5, CSS3, JavaScript, Python, C#**
+</p>
 
-class ProximosPassos extends Desenvolvedor {
-  objetivo = ["Estágio em Desenvolvimento"];
-  focoAtual = ["Aprofundar em C# e .NET", "Estudar Python para Back-End", "Construir projetos desafiadores"];
-}
+<p align="left">
+  💼 Tools: **Visual Studio, Visual Studio Code, PyCharm.**
+</p>
 
-class Contato extends Desenvolvedor {
-  email = "luccatrevisandev@gmail.com";
-  linkedIn = "https://www.linkedin.com/in/lucca-trevisan-86a181378";
-}
-```
+<p align="left">
+  💌 My Contact Info: ⤵️
+</p>
+
+<p align="left">
+  <a href="mailto:luccatrevisandev@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/lucca-trevisan-86a181378/" target="_blank" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+</p>
