@@ -8,9 +8,9 @@ My tech journey began with front-end development for my own brand, Chewie Cookie
 
 ### 💻 Skills and Technologies
 
-* **Languages:** Python, C#, JavaScript
-* **Front-End:** HTML5, CSS3
-* **Tools:** Git, GitHub, Visual Studio, Visual Studio Code, PyCharm
+* **Back-End:** Python, C#
+* **Front-End:** HTML5, CSS3, JavaScript
+* **Tools:** Git, GitHub, Visual Studio Code, PyCharm
 
 ---
 
