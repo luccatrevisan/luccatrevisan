@@ -1,6 +1,6 @@
 ### 👋 Hey! I am Lucca Trevisan
 
-I am a Computer Science student from Brazil and an aspiring **Front-End Developer**.
+I am a Computer Science student from Brazil and an aspiring **Back-end Developer**.
 
 My tech journey began with front-end development for my own brand, Chewie Cookies. This experience sparked my passion for creating and solving problems, which brought me to the fascinating world of logic and systems.
 
@@ -8,8 +8,8 @@ My tech journey began with front-end development for my own brand, Chewie Cookie
 
 ### 💻 Skills and Technologies
 
-* **Back-End:** Node.js
-* **Front-End:** HTML5, CSS3, JavaScript, React
+* **Back-End:** Python, Django
+* **Front-End:** Basic HTML, CSS and JavaScript
 * **Tools:** Git, GitHub, Visual Studio Code
 
 ---
