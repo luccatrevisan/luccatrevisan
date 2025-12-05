@@ -1,30 +1,68 @@
-### 👋 Hey! I am Lucca Trevisan
+# 👋 Hey! I'm Lucca Trevisan
 
-I am a Computer Science student from Brazil and an aspiring **Back-end Developer**.
+Backend developer in formation with entrepreneurial background. I build efficient systems using Python, create data-driven solutions, and automate business processes.
 
-My tech journey began with front-end development for my own brand, Chewie Cookies. This experience sparked my passion for creating and solving problems, which brought me to the fascinating world of logic and systems.
-
----
-
-### 💻 Skills and Technologies
-
-* **Back-End:** Python, Django
-* **Front-End:** Basic HTML, CSS and JavaScript
-* **Tools:** Git, GitHub, Visual Studio Code
+My journey started with front-end development for my own e-commerce business. But I discovered my true passion: **backend, APIs, and data**. Now I'm focused on solving real problems with clean, scalable code.
 
 ---
 
-### 🚀 Main Projects
+## 💻 Tech Stack
 
-* **ScreenSound** - A C# project to register and evaluate bands.
-    * [Check It Out](https://github.com/luccatrevisan/ScreenSound)
-* **Shopping List** - A simple JavaScript application to manage a dinamic shopping list.
-    * [Check It Out](https://github.com/luccatrevisan/carrinho-compras)
-* **Chewie Cookies Digital Menu** - Developed using only HTML and CSS, this project serves as a supplementary menu for customers. Future plans include integrating JavaScript functionalities such as scheduled promotions, a shopping cart and shipping cost calculation.
-    * [Check It Out](https://github.com/luccatrevisan/chewie-cookies-menu)
+**Backend:**
+- Python, Django, Django REST Framework
+- JWT Authentication, API Integration
+- PostgreSQL, SQL
+
+**Data & Automation:**
+- Pandas, ETL pipelines, data analysis
+- Web scraping (BeautifulSoup, Requests)
+- Report automation, data transformation
+
+**Tools & DevOps:**
+- Git/GitHub, Docker, VS Code
+- Postman, Git Bash
 
 ---
-### ✉️ My Contact Info
 
-* **Email:** [luccatrevisandev@gmail.com](mailto:luccatrevisandev@gmail.com)
-* **LinkedIn:** [Lucca Trevisan](https://www.linkedin.com/in/lucca-trevisan-86a181378/)
+## 🚀 Featured Projects
+
+### **Geocoding with Nominatim**
+Convert addresses to geographic coordinates using the Nominatim API (OpenStreetMap).
+- Technologies: Python, urllib, JSON, Git
+- [Repository](https://github.com/luccatrevisan/geocoding_nominatim)
+
+### **Data Automation & Analysis**
+Python + Pandas projects focused on real-world data challenges:
+- Multi-source data integration and cleaning
+- Automated reporting and ETL pipelines
+- Data transformation and analysis
+- [Explore More](https://github.com/luccatrevisan)
+
+### **Django Backend Projects** (In Progress)
+Building RESTful APIs with Django, authentication, and database management.
+- Blog with ORM optimization
+- Authentication system with JWT
+- API integration and webhooks
+
+---
+
+## 🎯 What I'm Working On
+
+Currently developing a portfolio of backend and data projects while offering freelance services in:
+- Data automation and analysis
+- API development
+- Business process optimization
+
+Seeking my first junior backend developer position where I can contribute quality code and continue learning.
+
+---
+
+## 📬 Get In Touch
+
+- **Email:** [luccatrevisandev@gmail.com](mailto:luccatrevisandev@gmail.com)
+- **LinkedIn:** [Lucca Trevisan](https://www.linkedin.com/in/lucca-trevisan-86a181378/)
+- **GitHub:** [@luccatrevisan](https://github.com/luccatrevisan)
+
+---
+
+*Always learning, always building.*
