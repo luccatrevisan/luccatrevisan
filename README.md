@@ -27,7 +27,7 @@ backend: building efficient systems, optimizing processes, and creating robust A
 #### **⚙️ Backend & Web (Django)**
 * **[Django Blog](https://github.com/luccatrevisan/blog)**: Blog built with dynamic content, media handling, and centralized asset management.
     * `Django` `SQLite` `ORM` `CSS3`
-* **API Lab (In Progress)**: Developing RESTful services, JWT authentication, and Webhooks integration.
+* **What's Next**: Develop an authentication system on my [Cookie Menu](https://github.com/luccatrevisan/chewie-cookies-menu).
     * `Django Rest Framework` `JWT` `PostgreSQL`
 
 ## 🎯 What I'm Working On
