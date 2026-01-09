@@ -4,7 +4,7 @@ Backend developer in formation with entrepreneurial background. Building a caree
 in Python and Backend, with a focus on APIs and system architecture.
 
 I managed my own e-commerce business for years, which helped me understand how 
-code solves real problems. I started with front-end, but my true passion lies in 
+code can solve real problems. I started with front-end, but my true passion lies in 
 backend: building efficient systems, optimizing processes, and creating robust APIs.
 
 ## 💻 Tech Stack
@@ -21,7 +21,7 @@ backend: building efficient systems, optimizing processes, and creating robust A
 ## 🚀 Featured Projects
 
 #### **🌐 Geolocation & Data**
-* **[Geocoding with Nominatim](https://github.com/luccatrevisan/geocoding_nominatim)**: Address-to-coordinates conversion using OpenStreetMap API.
+* **[Geocoding with Nominatim](https://github.com/luccatrevisan/geocoding_nominatim)**: Address-to-coordinates conversion using the OpenStreetMap API.
     * `Python` `JSON` `urllib`
 
 #### **⚙️ Backend & Web (Django)**
