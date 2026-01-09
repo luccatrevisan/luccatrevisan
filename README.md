@@ -20,16 +20,15 @@ backend: building efficient systems, optimizing processes, and creating robust A
 
 ## 🚀 Featured Projects
 
-### **Geocoding with Nominatim**
-Convert addresses to geographic coordinates using the Nominatim API (OpenStreetMap).
-- Technologies: Python, urllib, JSON, Git
-- [Repository](https://github.com/luccatrevisan/geocoding_nominatim)
+#### **🌐 Geolocation & Data**
+* **[Geocoding with Nominatim](https://github.com/luccatrevisan/geocoding_nominatim)**: Address-to-coordinates conversion using OpenStreetMap API.
+    * `Python` `JSON` `urllib`
 
-### **Django Backend Projects** (In Progress)
-Building RESTful APIs with Django, authentication, and database management.
-- Blog with ORM optimization
-- Authentication system with JWT
-- API integration and webhooks
+#### **⚙️ Backend & Web (Django)**
+* **[Django Blog](https://github.com/luccatrevisan/blog)**: Blog built with dynamic content, media handling, and centralized asset management.
+    * `Django` `SQLite` `ORM` `CSS3`
+* **API Lab (In Progress)**: Developing RESTful services, JWT authentication, and Webhooks integration.
+    * `Django Rest Framework` `JWT` `PostgreSQL`
 
 ## 🎯 What I'm Working On
 
