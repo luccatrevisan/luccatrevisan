@@ -7,7 +7,7 @@ I managed my own e-commerce business for years, which helped me understand how
 code can solve real problems. I started with front-end, but my true passion lies in 
 backend: building efficient systems, optimizing processes, and creating robust APIs.
 
-## 💻 Tech Stack
+## Tech Stack
 
 **Backend:**
 - Python, Django, Django REST Framework
@@ -18,19 +18,29 @@ backend: building efficient systems, optimizing processes, and creating robust A
 - Git/GitHub, Docker, VS Code
 - Postman, Git Bash
 
-## 🚀 Featured Projects
+## Featured Projects
 
-#### **🌐 Geolocation & Data**
-* **[Geocoding with Nominatim](https://github.com/luccatrevisan/geocoding_nominatim)**: Address-to-coordinates conversion using the OpenStreetMap API.
-    * `Python` `JSON` `urllib`
+### 🍪 [Digital Menu](https://github.com/luccatrevisan/digital_menu)
+Complete backend system for managing my cookie business: digital menu, orders, payments, and automation.  
+**7-stage roadmap:** REST API → JWT auth → Stripe payments → Celery automation → Docker deployment
 
-#### **⚙️ Backend & Web (Django)**
-* **[Django Blog](https://github.com/luccatrevisan/blog)**: Blog built with dynamic content, media handling, and centralized asset management.
-    * `Django` `SQLite` `ORM` `CSS3`
-* **What's Next**: Develop an authentication system on my [Cookie Menu](https://github.com/luccatrevisan/chewie-cookies-menu).
-    * `Django Rest Framework` `JWT` `PostgreSQL`
+**Tech:** Django REST Framework • PostgreSQL • JWT • Stripe (planned) • Celery (planned) • Docker (planned)
 
-## 🎯 What I'm Working On
+---
+
+### 📝 [Django Blog](https://github.com/luccatrevisan/blog)
+Dynamic blog with media handling and centralized asset management.
+
+**Tech:** Django • SQLite • ORM • CSS3
+
+---
+
+### 🌐 [Geocoding with Nominatim](https://github.com/luccatrevisan/geocoding_nominatim)
+Address-to-coordinates conversion using the OpenStreetMap API.
+
+**Tech:** Python • JSON • urllib
+
+## What I'm Working On
 
 Currently developing a portfolio of backend projects while pursuing my first junior 
 backend developer position.
