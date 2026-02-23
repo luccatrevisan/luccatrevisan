@@ -1,21 +1,18 @@
 # 👋 Hey! I'm Lucca Trevisan
 
-Backend developer in formation with entrepreneurial background. Building a career 
-in Python and Backend, with a focus on APIs and system architecture.
+Backend developer with an entrepreneurial background.. Building a career in Python and Backend, with a focus on APIs and system architecture.
 
-I managed my own e-commerce business for years, which helped me understand how 
-code can solve real problems. I started with front-end, but my true passion lies in 
-backend: building efficient systems, optimizing processes, and creating robust APIs.
+I managed my own e-commerce business for years, which helped me understand how code can solve real problems. I started with front-end, but my true passion lies in backend: building efficient systems, optimizing processes, and creating robust APIs.
 
 ## Tech Stack
 
 **Backend:**
 - Python, Django, Django REST Framework
-- JWT Authentication, API Integration
+- API Integration
 - PostgreSQL, SQL
 
 **Tools & DevOps:**
-- Git/GitHub, Docker, VS Code
+- Git/GitHub, VS Code
 - Postman, Git Bash
 
 ## Featured Projects
@@ -24,7 +21,7 @@ backend: building efficient systems, optimizing processes, and creating robust A
 Complete backend system for managing my cookie business: digital menu, orders, payments, and automation.  
 **7-stage roadmap:** REST API → JWT auth → Stripe payments → Celery automation → Docker deployment
 
-**Tech:** Django REST Framework • PostgreSQL • JWT • Stripe (planned) • Celery (planned) • Docker (planned)
+**Tech:** Django REST Framework • PostgreSQL (planned) • JWT • Stripe (planned) • Celery (planned) • Docker (planned)
 
 ---
 
@@ -42,12 +39,12 @@ Address-to-coordinates conversion using the OpenStreetMap API.
 
 ## What I'm Working On
 
-Currently developing a portfolio of backend projects while pursuing my first junior 
-backend developer position.
+Currently developing a portfolio of backend projects while pursuing my first backend developer position.
 
-Seeking opportunities where I can contribute quality code and continue learning 
-from experienced professionals.
+Seeking opportunities where I can contribute quality code and continue learning from experienced professionals.
 
 ---
 
 **Always learning, always building.**
+Linkedin: https://www.linkedin.com/in/lucca-trevisan-86a181378/
+Email: luccatrevisandev@gmail.com
