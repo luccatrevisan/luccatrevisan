@@ -2,7 +2,7 @@
 
 Backend developer with an entrepreneurial background.. Building a career in Python and Backend, with a focus on APIs and system architecture.
 
-I managed my own e-commerce business for years, which helped me understand how code can solve real problems. I started with front-end, but my true passion lies in backend: building efficient systems, optimizing processes, and creating robust APIs.
+I managed my own e-commerce business for years, which helped me understand how code can solve real problems. I started with basic front-end, but my true passion lies in backend: building efficient systems, optimizing processes, and creating robust APIs.
 
 ## Tech Stack
 
@@ -12,7 +12,7 @@ I managed my own e-commerce business for years, which helped me understand how c
 - PostgreSQL, SQL
 
 **Tools & DevOps:**
-- Git/GitHub, VS Code
+- Git/GitHub, VSCode
 - Postman, Git Bash
 
 ## Featured Projects
@@ -21,14 +21,14 @@ I managed my own e-commerce business for years, which helped me understand how c
 Complete backend system for managing my cookie business: digital menu, orders, payments, and automation.  
 **7-stage roadmap:** REST API → JWT auth → Stripe payments → Celery automation → Docker deployment
 
-**Tech:** Django REST Framework • PostgreSQL (planned) • JWT • Stripe (planned) • Celery (planned) • Docker (planned)
+**Tech:** Django REST Framework • PostgreSQL • JWT • Stripe • Celery • Docker
 
 ---
 
 ### 📝 [Django Blog](https://github.com/luccatrevisan/blog)
 Dynamic blog with media handling and centralized asset management.
 
-**Tech:** Django • SQLite • ORM • CSS3
+**Tech:** Django • SQLite3 • ORM • CSS3
 
 ---
 
@@ -39,7 +39,7 @@ Address-to-coordinates conversion using the OpenStreetMap API.
 
 ## What I'm Working On
 
-Currently developing a portfolio of backend projects while pursuing my first backend developer position.
+Currently developing a portfolio of backend projects while pursuing my first developer position.
 
 Seeking opportunities where I can contribute quality code and continue learning from experienced professionals.
 
