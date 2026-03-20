@@ -46,5 +46,5 @@ Seeking opportunities where I can contribute quality code and continue learning 
 ---
 
 **Always learning, always building.**
-Linkedin: https://www.linkedin.com/in/lucca-trevisan-86a181378/
+Linkedin: https://www.linkedin.com/in/luccatrevisan/
 Email: luccatrevisandev@gmail.com
