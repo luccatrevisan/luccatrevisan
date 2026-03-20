@@ -6,9 +6,9 @@ I managed my own e-commerce business for years, which helped me understand how c
 
 ## Stack
 
-*Languages:* Python, Django, Django REST Framework
-*Databases:* SQLite3, PostgreSQL, SQL
-*Tools & DevOps:* Git, Postman
+**Languages**: Python, Django, Django REST Framework
+**Databases**: SQLite3, PostgreSQL, SQL
+**Others**: Git, Postman
 ---
 
 **Always learning, always building.**
