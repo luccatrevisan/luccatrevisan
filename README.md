@@ -4,7 +4,7 @@ Backend developer with an entrepreneurial background. Building a career in Backe
 I managed my own e-commerce business for years, which helped me understand how code can solve real problems. I started with basic front-end, but my true passion lies in backend: building efficient systems, optimizing processes, and creating robust APIs.
 
 ## Stack
-- **Languages:** Python, Django, Django REST Framework, Javascript, Node.js, HTML5, CSS3
+- **Languages:** Python, Django, Django REST Framework, JavaScript, HTML5, CSS3
 - **Databases:** SQLite3, PostgreSQL, SQL
 - **Others:** Git, Postman, vscode
 
