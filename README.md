@@ -1,15 +1,19 @@
 # 👋 Hey! I'm Lucca Trevisan
-Backend developer with an entrepreneurial background. Building a career in Backend with Python, with a focus on APIs and system architecture.
+Backend Developer focused on **Python, Django and REST APIs**, with hands-on experience building real-world systems.
 
-I managed my own e-commerce business for years, which helped me understand how code can solve real problems. I started with basic front-end, but my true passion lies in backend: building efficient systems, optimizing processes, and creating robust APIs.
+I developed a production-ready API that replaced delivery platforms, that will generate ~R$30,000/year in cost savings. My focus is on designing scalable backend systems, structuring business rules, and delivering efficient solutions.
 
-## Stack
-- **Languages:** Python, Django, Django REST Framework, JavaScript, HTML5, CSS3
-- **Databases:** SQLite3, PostgreSQL, SQL
-- **Others:** Git, Postman, vscode
+Currently expanding my project with **order management, cart system, and integrations (Stripe, Twilio)**.
 
----
-**Always learning, always building.**
+## Tech Stack
 
-Linkedin: https://www.linkedin.com/in/luccatrevisan/
-Email: luccatrevisandev@gmail.com
+* **Languages:** Python, SQL, JavaScript
+* **Backend:** Django, Django REST Framework, REST APIs
+* **Frontend:** HTML5, CSS3
+* **Databases:** PostgreSQL, SQLite
+* **Tools:** Git, Postman, VS Code
+
+## Contact
+
+* LinkedIn: https://www.linkedin.com/in/luccatrevisan/
+* Email: [luccatrevisandev@gmail.com](mailto:luccatrevisandev@gmail.com)
