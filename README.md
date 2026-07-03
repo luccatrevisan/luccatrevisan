@@ -1,6 +1,6 @@
 # 👋 Hey! I'm Lucca Trevisan
 
-Python Developer focused on building real-world systems, automation workflows, backend systems and REST APIs.
+Python Developer focused on building real-world systems, automation workflows and REST APIs.
 
 Currently developing backend systems with **Python, Django REST Framework, PostgreSQL, and SQL**, combining software engineering with real business operations through my cookie brand, **Chewie Cookies**.
 
