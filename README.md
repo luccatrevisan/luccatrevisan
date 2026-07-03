@@ -18,14 +18,6 @@ I built a production-ready API designed to replace delivery platforms, projected
 
 **Tools:** Git, Docker (learning), Postman, Swagger/OpenAPI, Linux
 
-### Tools
-
-* Git
-* Docker (learning)
-* Postman
-* Swagger/OpenAPI
-* Linux
-
 ## Contact
 
 * LinkedIn: linkedin.com/in/luccatrevisan
