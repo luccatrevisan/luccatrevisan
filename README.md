@@ -1,24 +1,69 @@
 # 👋 Hey! I'm Lucca Trevisan
 
-Python Developer focused on building real-world systems, automation workflows and REST APIs.
+Backend Developer specializing in Python, Django, and PostgreSQL, focused on building real-world systems, automation workflows, and REST APIs.
 
-Currently developing backend systems with **Python, Django REST Framework, PostgreSQL, and SQL**, combining software engineering with real business operations through my cookie brand, **Chewie Cookies**.
+Currently developing backend applications that combine software engineering with real business operations through my cookie brand, **Chewie Cookies**.
 
-I built a production-ready API designed to replace delivery platforms, projected to save ~R$30,000/year in operational costs while improving control over orders, products, and business data.
+I designed and built an internal management platform to replace third-party delivery platforms, projected to reduce operational costs by approximately **30,000 BRL per year** while improving control over orders, products, inventory, and business data.
 
 ## Tech Stack
 
-**Languages:** Python, SQL, JavaScript (ES6+)
+**Languages**
+- Python
+- SQL
+- JavaScript (ES6+)
 
-**Frameworks:** Django, Django REST Framework
+**Frameworks**
+- Django
+- Django REST Framework
 
-**Databases:** PostgreSQL, SQLite
+**Databases**
+- PostgreSQL
+- SQLite
 
-**APIs:** REST APIs, JWT Authentication
+**Backend**
+- REST APIs
+- JWT Authentication
+- Relational Database Modeling
 
-**Tools:** Git, Docker (learning), Postman, Swagger/OpenAPI, Linux
+**Tools**
+- Git
+- GitHub
+- Postman
+- Swagger/OpenAPI
+- Linux
+- Docker *(currently learning)*
+
+## Current Focus
+
+- Building scalable backend applications with Python and Django
+- Advanced SQL
+- System Design
+- Docker
+- Cloud technologies
+- Software Architecture
+
+## Featured Project
+
+### digital_menu
+
+Backend platform for digital menu and order management built for a real business environment.
+
+**Highlights**
+
+- RESTful API with 14 endpoints
+- JWT Authentication
+- PostgreSQL
+- Relational database design
+- Swagger/OpenAPI documentation
+- SQLite → PostgreSQL migration
+- Production-oriented architecture
+
+Repository:
+https://github.com/luccatrevisan/digital_menu
 
 ## Contact
 
-* LinkedIn: linkedin.com/in/luccatrevisan
-* Email: [luccatrevisandev@gmail.com](mailto:luccatrevisandev@gmail.com)
+- LinkedIn: https://linkedin.com/in/luccatrevisan
+- GitHub: https://github.com/luccatrevisan
+- Email: <luccatrevisandev@gmail.com>
