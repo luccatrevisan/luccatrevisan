@@ -8,59 +8,10 @@ I designed and built an internal management platform to replace third-party deli
 
 ## Tech Stack
 
-**Languages**
-- Python
-- SQL
-- JavaScript (ES6+)
-
-**Frameworks**
-- Django
-- Django REST Framework
-
-**Databases**
-- PostgreSQL
-- SQLite
-
-**Backend**
-- REST APIs
-- JWT Authentication
-- Relational Database Modeling
-
-**Tools**
-- Git
-- GitHub
-- Postman
-- Swagger/OpenAPI
-- Linux
-- Docker *(currently learning)*
-
-## Current Focus
-
-- Building scalable backend applications with Python and Django
-- Advanced SQL
-- System Design
-- Docker
-- Cloud technologies
-- Software Architecture
-
-## Featured Project
-
-### digital_menu
-
-Backend platform for digital menu and order management built for a real business environment.
-
-**Highlights**
-
-- RESTful API with 14 endpoints
-- JWT Authentication
-- PostgreSQL
-- Relational database design
-- Swagger/OpenAPI documentation
-- SQLite → PostgreSQL migration
-- Production-oriented architecture
-
-Repository:
-https://github.com/luccatrevisan/digital_menu
+**Languages**: Python, SQL, JavaScript (ES6+), HTML5, CSS3
+**Backend**: Django, Django REST Framework, APIs REST, JWT Authentication
+**Databases**: PostgreSQL, SQLite, Django ORM
+**Tests and Tools**: Pytest, Git, GitHub, Postman, Swagger/OpenAPI
 
 ## Contact
 
