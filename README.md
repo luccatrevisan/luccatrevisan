@@ -8,10 +8,10 @@ I designed and built an internal management platform to replace third-party deli
 
 ## Tech Stack
 
-**Languages**: Python, SQL, JavaScript (ES6+), HTML5, CSS3
-**Backend**: Django, Django REST Framework, APIs REST, JWT Authentication
-**Databases**: PostgreSQL, SQLite, Django ORM
-**Tests and Tools**: Pytest, Git, GitHub, Postman, Swagger/OpenAPI
+- **Languages**: Python, SQL, JavaScript (ES6+), HTML5, CSS3
+- **Backend**: Django, Django REST Framework, APIs REST, JWT Authentication
+- **Databases**: PostgreSQL, SQLite, Django ORM
+- **Tests and Tools**: Pytest, Git, GitHub, Postman, Swagger/OpenAPI
 
 ## Contact
 
